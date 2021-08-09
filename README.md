@@ -3,7 +3,7 @@
 Craft files for the rocket, and a version without the parts needed for kOS, are included.
 
 Link to Youtube video:
-
+https://www.youtube.com/watch?v=ZHNgXRzBT2o
 
 This is the Kerbal Operating System code for an Atlas-V N22 rocket launch, carrying the Starliner spacecraft to the ISS.
 
